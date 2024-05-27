@@ -1,0 +1,9 @@
+inst/lib
+inst/VERSION
+inst/include/quickjs
+*.o
+*.so
+*.a
+^check$
+.vscode
+*.DS_Store
